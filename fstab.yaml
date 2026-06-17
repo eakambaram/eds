@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p92824-e844378.adobeaemcloud.com/bin/franklin.delivery/eakambaram/eds/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://author-p92824-e844378.adobeaemcloud.com/bin/franklin.delivery/eakambaram/eds/main
